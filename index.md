@@ -21,7 +21,11 @@ content starts at 4-columns in.
 
 Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., "it's all
 in chapters 12--14"). Three dots ... will be converted to an ellipsis.
+<<<<<<< HEAD
 Unicode is supported. ?
+=======
+Unicode is supported. ☺
+>>>>>>> a0949d89fd11c2b7cc4da38bc1b7ebd2b4c582a4
 
 
 
